@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">This is Riyad Hossain!</h1>
+<h1 align="center">I am Riyad Hossain!</h1>
 
 ###
 
