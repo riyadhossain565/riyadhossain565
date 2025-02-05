@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">I am Riyad Hossain!</h1>
+<h1 align="center">This is Riyad Hossain!</h1>
 
 ###
 
@@ -18,7 +18,8 @@
 
 ###
 
-<p align="left">🚀 Exploring Next.js and Node.js to enhance my full-stack skills.<br>📚 Continuously learning MongoDB and backend development for scalable applications.<br>🔧 Improving UI/UX design skills to create better user experiences.<br>🎯 Goals: Build web applications that simplify everyday life.<br>🎲 Fun Fact: I love reading books in my free time.</p>
+<p align="left">🚀 Exploring Next.js and Node.js to enhance my full-stack skills.<br>📚 Continuously learning MongoDB and backend development for scalable applications.<br>🔧 Improving UI/UX design skills to create better user experiences.<br>🎯 Goals: Build web applications that simplify everyday life.<br>🎲 Fun Fact: I love reading books in my free time.<br>📞 Contact me: <a href="tel:+8801849330804">+880 1849330804</a>
+</p>
 
 ###
 
